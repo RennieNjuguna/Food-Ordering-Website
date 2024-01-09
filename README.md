@@ -4,7 +4,7 @@ A simple food store built using the vuejs framework
 
 ## To Run the project use the commands highlighted below
 
-### Project setup
+### Project Setup
 ```
 npm install
 ```
@@ -19,3 +19,4 @@ npm run serve
 npm run build
 ```
 
+{Still in production}
